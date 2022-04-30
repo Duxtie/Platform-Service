@@ -1,0 +1,7 @@
+*.pyc
+env/
+.terraform
+.env
+assets/media/
+staticfiles/
+postgres-data/

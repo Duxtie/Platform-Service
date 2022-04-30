@@ -1,0 +1,25 @@
+[
+{
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+        "last_login": "2022-04-20T17:03:59.580Z",
+        "is_superuser": false,
+        "username": "user",
+        "is_staff": false,
+        "date_joined": "2022-04-20T17:03:59.470Z",
+        "name": null,
+        "first_name": null,
+        "last_name": null,
+        "email": "user@user.com",
+        "phone": null,
+        "password": "pbkdf2_sha256$150000$zrJuLBUbCrki$A4TV3fH07RPjozTC6XUPOG+yofsvhgtfvgAhtDZy+Ro=",
+        "is_active": true,
+        "is_verified_at": null,
+        "created_at": "2022-04-20T17:03:59.548Z",
+        "updated_at": "2022-04-20T17:03:59.548Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
